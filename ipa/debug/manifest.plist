@@ -11,19 +11,19 @@
                 <key>kind</key>
                 <string>software-package</string>
                 <key>url</key>
-                <string>https://github.com/Project112224/debug_app/blob/main/ipa/debug/cathay_health.ipa?raw=true</string>
+                <string>https://github.com/Project112224/debug_app/blob/main/ipa/debug/test.ipa?raw=true</string>
             </dict>
         </array>
         <key>metadata</key>
         <dict>
             <key>bundle-identifier</key>
-            <string>tw.com.cathayhealth.booking</string>
+            <string>tw.edu.sinica.ling.collection.app.sinicaCollectionApp</string>
             <key>bundle-version</key>
-            <string>1.2.3</string>
+            <string>1.0.0</string>
             <key>kind</key>
             <string>software</string>
             <key>title</key>
-            <string>cathay_health</string>
+            <string>sinica_collection_app</string>
         </dict>
     </dict>
 </array>
